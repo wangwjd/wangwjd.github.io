@@ -6,7 +6,7 @@ title: Github Blog Tips
 
 
 
-# 基本原理
+## 基本原理
 
 在Git Hub中使用Jekyll做了一个服务器，解析上传的MD文件做Post  
 
