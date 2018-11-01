@@ -25,13 +25,13 @@ Win10 + WSL + Docker + Superset
 
   在安装WSL的时候遇到了如下报错
 
-  ```python
+  ```
   wslRegisterDistribution failed with error: 0x8007019e
   ```
 
   解决办法：
 
-  ```python
+  ```
   Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
   ```
 
