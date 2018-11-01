@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+"Max Wang，奔4年纪，曾经做过一个靠谱的通信工程师和存储工程师。3年前入坑数据分析和业务管理。 "
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+"坐标：上海"
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wang.wjd@gmail.com](mailto:wang.wjd@gmail.com)
